@@ -27,12 +27,15 @@ Given the current pandemic, as far as I'm concerned grades are really there to l
 Don't miss class! Unless of course you're sick, or have a family member that's sick, or some other extenuating circumstance... and most pandemic related issues certainly qualify as extenuating circumstances. Class will provide critique sessions, a variety of guest lectures, and other opportunities that can't easily be replicated viewing a video recording. That said, I will do my best to record all class sessions and post the recordings.
 
 ## Course Outline (subject to change)
+For all readings, please prepare a paragraph or two (>200 words) describing points of interest you found in the article, questions you might have, and topics for discussion in class. Please submit this by 10AM the morning they are due, this will hopefully give me time to scan them before class.
 
 ### Week 1: what is 'tangible' , what is 'embodied' and what is TEI? 
-Readings (due Feb 1st):  
+Readings (due Feb 1st):
+- [Human–computer interaction, foundations and new paradigms](https://www.alandix.com/academic/papers/JVLC-2016-HCI-FNP/JVLC-special-2016-draft.pdf) by Alan Dix  
+- [Direct Manipulation:
+A Step Beyond Programming Languages](https://www.cs.umd.edu/users/ben/papers/Shneiderman1983Direct.pdf) by Ben Shneiderman  
 - [Getting a Grip on Tangible Interaction: A Framework on Physical Space and Social Interaction](http://www.ehornecker.de/Papers/FrameworkCHI.pdf) by Eva Hornecker and Jacob Buur  
 - [Tangible Bits: Beyond Pixels](https://dl.acm.org/doi/pdf/10.1145/1347390.1347392) by Hiroshi Ishii  
-- [Design Research & Tangible Interaction](https://dl.acm.org/doi/pdf/10.1145/1226969.1226993) by Elise van den Hoven et al. 
 
 ### Week 2: Embodied text(?) and the keyboard / mouse as input devices
 - Live Coding
