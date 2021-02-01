@@ -42,19 +42,28 @@ A Step Beyond Programming Languages](https://www.cs.umd.edu/users/ben/papers/Shn
 *Live Coding*
 
 Experiment with one or more of the environments below:
-[Hydra (2D visuals)(https://hydra.ojack.xyz)
-[Livecodelab (3D visuals + a bit of music](https://livecodelab.net/)
-[Marching.js (ray-marched visuals)](https://charlieroberts.github.io/marching/playground/)
-[Gibber (music + 3D visuals)](https://gibber.cc/alpha/playground)
+- [Hydra (2D visuals)](https://hydra.ojack.xyz)
+- [Livecodelab (3D visuals + a bit of music](https://livecodelab.net/)
+- [Marching.js (ray-marched visuals)](https://charlieroberts.github.io/marching/playground/)
+- [Gibber (music + 3D visuals)](https://gibber.cc/alpha/playground)
 
-Create a short (2–3 minute) performance using one of these systems (consider syncing to music if you’re doing a graphics performance), or, if you’re using Script-8, create a basic game that is playable. You will be asked to conduct peer critiques of this assignment in groups next week. As you use these systems, consider how the “embodiedness” of the environment (or lack thereof) is contributing to your work. Do you find yourself wanting tangible controls? Do the keys become tangible? The mouse?
+Create a short (2–3 minute) performance using one of these systems (consider syncing to music if you’re doing a graphics performance). You will be asked to conduct peer critiques of this assignment in groups next week. As you use these systems, consider how the “embodiedness” of the environment (or lack thereof) is contributing to your work. Do you find yourself wanting tangible controls? Do the keys become tangible? The mouse?
 
-Write a short response (minimum 150 words) addressing these questions and other aspects of the environment you found interesting or problematic. 
+Write a short response (minimum 250 words) addressing these questions and other aspects of the environment you found interesting or problematic. 
 
 Include a link to a video of your performance at the top of your design sprint, and please share the recording in the class Discord channel. 
 
 *Interactive Fiction*
 Coming soon...
+
+#### Readings (due Feb. 8th)
+Please submit a summary to me through Discord per the instructions at the top of the Course Summary.
+- [Embodiment of Code - Marije Baalman](https://zenodo.org/record/18748#.YBepti9h124)
+- [Radical Clashes: What Tangible Interaction Is Made Of - Dijk1 et al](https://dl.acm.org/doi/pdf/10.1145/2460625.2460680?casa_token=nkmEsDhG44IAAAAA:sYqyBsnk4_tssXNF-5-SyyIpUbZZiJlu_L_7AuIiUahK_0TCU6vJKLCWjmrO_rNlHZ_yNvUk9-mw)
+- [What is Embodied Programming - Alex McLean](https://slab.org/what-is-embodied-programming/)
+
+One or two more to come!
+
 
 ### Week 3/4: Physical Computing / Sensing
 - (Feb 15th) Guest Lecture: Dr. Kate Sicchio, Assistant Professor of Dance & Media Technology @ VCU
