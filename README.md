@@ -38,8 +38,23 @@ A Step Beyond Programming Languages](https://www.cs.umd.edu/users/ben/papers/Shn
 - [Tangible Bits: Beyond Pixels](https://dl.acm.org/doi/pdf/10.1145/1347390.1347392) by Hiroshi Ishii  
 
 ### Week 2: Embodied text(?) and the keyboard / mouse as input devices
-- Live Coding
-- Interactive Fiction
+#### Design Sprint (choose one)
+*Live Coding*
+
+Experiment with one or more of the environments below:
+[Hydra (2D visuals)(https://hydra.ojack.xyz)
+[Livecodelab (3D visuals + a bit of music](https://livecodelab.net/)
+[Marching.js (ray-marched visuals)](https://charlieroberts.github.io/marching/playground/)
+[Gibber (music + 3D visuals)](https://gibber.cc/alpha/playground)
+
+Create a short (2–3 minute) performance using one of these systems (consider syncing to music if you’re doing a graphics performance), or, if you’re using Script-8, create a basic game that is playable. You will be asked to conduct peer critiques of this assignment in groups next week. As you use these systems, consider how the “embodiedness” of the environment (or lack thereof) is contributing to your work. Do you find yourself wanting tangible controls? Do the keys become tangible? The mouse?
+
+Write a short response (minimum 150 words) addressing these questions and other aspects of the environment you found interesting or problematic. 
+
+Include a link to a video of your performance at the top of your design sprint, and please share the recording in the class Discord channel. 
+
+*Interactive Fiction*
+Coming soon...
 
 ### Week 3/4: Physical Computing / Sensing
 - (Feb 15th) Guest Lecture: Dr. Kate Sicchio, Assistant Professor of Dance & Media Technology @ VCU
