@@ -46,6 +46,7 @@ Experiment with one or more of the environments below:
 - [Livecodelab (3D visuals + a bit of music](https://livecodelab.net/)
 - [Marching.js (ray-marched visuals)](https://charlieroberts.github.io/marching/playground/)
 - [Gibber (music + 3D visuals)](https://gibber.cc/alpha/playground)
+- [Barbara (2D visuals + programming language creation)](https://www.barbara.graphics/)
 
 Create a short (2–3 minute) performance using one of these systems (consider syncing to music if you’re doing a graphics performance). You will be asked to conduct peer critiques of this assignment in groups next week. As you use these systems, consider how the “embodiedness” of the environment (or lack thereof) is contributing to your work. Do you find yourself wanting tangible controls? Do the keys become tangible? The mouse?
 
