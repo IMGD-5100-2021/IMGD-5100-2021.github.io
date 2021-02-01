@@ -38,7 +38,7 @@ A Step Beyond Programming Languages](https://www.cs.umd.edu/users/ben/papers/Shn
 - [Tangible Bits: Beyond Pixels](https://dl.acm.org/doi/pdf/10.1145/1347390.1347392) by Hiroshi Ishii  
 
 ### Week 2: Embodied text(?) and the keyboard / mouse as input devices
-#### Design Sprint (choose one)
+#### Design Sprint (choose one, due Feb 8th.)
 *Live Coding*
 
 Experiment with one or more of the environments below:
