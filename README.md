@@ -55,6 +55,7 @@ Write a short response (minimum 250 words) addressing these questions and other 
 Include a link to a video of your performance at the top of your design sprint, and please share the recording in the class Discord channel. 
 
 *Interactive Fiction*
+
 For this assignment, you will create a work of “interactive fiction”. This can be a game, a story, or you can take artistic license with the assignment to do something more creative with text and interaction. The only limitation is that text, and text alone, is the sole medium you may use to present your project.
 
 There are a few different tools for creating interactive fiction. The most popular of these is  [Twine](http://twinery.org/) , which primarily relies on hypertext links for interaction. However, you can also have variables, conditionals, and other programmatic constructs to make interaction more complex than you might expect from a hyperlink based system.
