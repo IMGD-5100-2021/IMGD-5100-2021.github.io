@@ -55,7 +55,18 @@ Write a short response (minimum 250 words) addressing these questions and other 
 Include a link to a video of your performance at the top of your design sprint, and please share the recording in the class Discord channel. 
 
 *Interactive Fiction*
-Coming soon...
+For this assignment, you will create a work of “interactive fiction”. This can be a game, a story, or you can take artistic license with the assignment to do something more creative with text and interaction. The only limitation is that text, and text alone, is the sole medium you may use to present your project.
+
+There are a few different tools for creating interactive fiction. The most popular of these is  [Twine](http://twinery.org/) , which primarily relies on hypertext links for interaction. However, you can also have variables, conditionals, and other programmatic constructs to make interaction more complex than you might expect from a hyperlink based system.
+
+There are also tools where natural language parsing (asking users to enter text at a prompt) is used instead of pointing and clicking. Two of the most popular of these are   [TADS](http://www.tads.org/) 
+and   [Inform](http://inform7.com/) . 
+
+ [Here’s a comprehensive comparison of a number of different IF systems by Emily Short](https://emshort.blog/how-to-play/writing-if/)
+
+The experience you create should be designed to be completed in about 15 minutes; we will be critiquing them in class next week. In addition to creating the assignment you will also need to provide a written summary of what you did (minimum 250 words). This summary should briefly describe what you created, what your inspiration was, and what tool you chose to author your work. Please also consider whether or not you think the work creates sense of immersion and whether or not you feel the work is embodied in any way.
+
+Submit your writing via Discord and be sure to include a link to your project! The Emily Short article linked above has useful suggestions for how to distribute your work.
 
 #### Readings (due Feb. 8th)
 Please submit a summary to me through Discord per the instructions at the top of the Course Summary.
