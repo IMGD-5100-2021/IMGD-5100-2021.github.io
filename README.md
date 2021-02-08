@@ -76,14 +76,16 @@ Please submit a summary to me through Discord per the instructions at the top of
 - [What is Embodied Programming - Alex McLean](https://slab.org/what-is-embodied-programming/)
 - [The Pleasure Principle: Immersion, Engagement, and Flow - Douglas / Haragon](https://www.researchgate.net/publication/221267256_The_pleasure_principle_immersion_engagement_flow)
 
-One or two more to come!
+### Week 3: Mobile Devices
 
+For this assignment we will experiment with using our phones as controllers for games, music, or other creative experiences. Regardless of which you choose, you will need to:
+1. Create an interface on your mobile device. One option for doing this is to use an application like TouchOSC (iOS or Android, $5) or mrmr (iOS, free) or oscHook (Android, free).  At minimum, your interface should use the accelerometer in some meaningful way. At best, experiment with a variety of sensors and/or touch controls. Alternatively, you can use a web interface via [Interface.js](https://github.com/charlieroberts/interface.js) or some other related library (nexus-osc etc.)
+2. Create  your game, musical instrument, or artistic experiment (or some combination of all three!) Make whatever you create accept messages over OSC so that it can communicate with your mobile device.  This can be in the platform of your choice… Unity, Web, Unreal, etc. although we’ll be covering Unity and Unreal specifically in class. Document whatever you  create in a video and upload it to a freely accessible site.
+3. Write a 250-word (minimum) summary of your experience. How hard was it to incorporate the mobile sensors? Were you able to use the sensors in a way that helped create a different experience from what you might have made with mouse / keyboard? Would you use mobile devices as game controllers for external games / interactive experiencecs again? Do you think the user experience is more embodied than a mouse + keyboard combo? Make sure to include a link to your documentation video at the top of your writing, and be prepared to conduct critique sessions on your design next class. 
 
-### Week 3/4: Physical Computing / Sensing
+### Week 4/5: Physical Computing / Sensing
 - (Feb 15th) Guest Lecture: Dr. Kate Sicchio, Assistant Professor of Dance & Media Technology @ VCU
       
-### Week 5: Mobile Devices
-
 ### Week 6/7: A Plurality of Realities: VR / AR / MR
 
 ### Week 8: Game interfaces and alternative controllers
