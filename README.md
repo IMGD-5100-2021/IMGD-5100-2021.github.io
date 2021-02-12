@@ -84,7 +84,7 @@ Please submit a summary to me through Discord per the instructions at the top of
 - Atau Tanaka: [Mapping Out Instruments, Affordances, and Mobiles](http://research.gold.ac.uk/id/eprint/6834/1/P88_Tanaka.pdf)
 - Donald Norman: [Design Thinking](https://cs3041-18b.github.io/docs/reading/DesignThinking_DonNorman.pdf)
 
-#### Design Sprint
+#### Design Sprint (due Thursday Feb. 18th)
 For this assignment we will experiment with using our phones as controllers for games, music, or other creative experiences. Regardless of which you choose, you will need to:
 1. Create an interface on your mobile device. One option for doing this is to use an application like TouchOSC (iOS or Android, $5) or mrmr (iOS, free) or oscHook (Android, free).  At minimum, your interface should use the accelerometer in some meaningful way. At best, experiment with a variety of sensors and/or touch controls. Alternatively, you can use a web interface via [Interface.js](https://github.com/charlieroberts/interface.js) or some other related library (nexus-osc etc.)
 2. Create  your game, musical instrument, or artistic experiment (or some combination of all three!) Make whatever you create accept messages over OSC so that it can communicate with your mobile device.  This can be in the platform of your choice… Unity, Web, Unreal, etc. although we’ll be covering Unity and Unreal specifically in class. Document whatever you  create in a video and upload it to a freely accessible site.
