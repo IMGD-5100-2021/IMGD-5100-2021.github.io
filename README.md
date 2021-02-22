@@ -92,6 +92,30 @@ For this assignment we will experiment with using our phones as controllers for 
 
 ### Week 4/5: Physical Computing / Sensing
 - (Feb 15th) Guest Lecture: Dr. Kate Sicchio, Assistant Professor of Dance & Media Technology @ VCU
+
+#### Mini-homework (due 2/26)
+Choose one sensor / output module declare it “yours” in the class Discord. This should not be a module discussed in class. Be prepared to give a short tutorial on using the sensor / output in class on Thursday, and have sample Arduino code / circuit photos to share with the class. You don’t need to integrate the sensor into a larger project (just getting it to interface with the Arduino is fine) but feel free to have fun with this if you want to get creative!
+
+#### Readings (due 3/1)
+• Iskander: [Design thinking is fundamentally conservative and preserves the status quo](https://hbr.org/2018/09/design-thinking-is-fundamentally-conservative-and-preserves-the-status-quo)
+• Norman (do a quick refresh before reading Iskander): [Design Thinking](https://cs3041-18b.github.io/docs/reading/DesignThinking_DonNorman.pdf)
+
+#### Design Sprint (due 3/4)
+For this assignment we will experiment with connecting sensors to Arduino, and using them to trigger events in a game engine / creative coding platform of your choice (class demos will be mostly in Unity). Ideally, you will create an interactive experience that *would not be possible to create* using your laptop alone.
+
+Ideas for this design sprint include:
+• A small interface (perhaps three buttons + a potentiometer)  that replicates the experience of using a more traditional GUI, but in the physical world. This GUI should be connected to a desktop/laptop app. What does having dedicated physical controls add to the experience?
+• A simple game interface + game that combines using the joystick with an additional sensor (photocell, ultrasound, and tilt switch seem like promising  ideas).
+• Go completely embedded and make a small interactive experience using the 16x2 LCD display connected to one or more additional sensors. Perhaps a simple text based game with physical inputs?  Can you figure out how to make a more arcade style game with the constraints of 16x2? Note that the circuitry for the LCD display, while not complex, does require nine separate connections to the Arduino.
+
+Document whatever you create and upload it to a freely accessible site for critique. Write a 250-word (minimum) summary of your experience. How hard was it to incorporate the Arduino sensors / interface elements? What affordances did you  Make sure to include a link to your documentation video at the top of your writing, and be prepared to conduct critique sessions on your design in class. 
+
+Unity + Arduino:  
+[Ardity](https://assetstore.unity.com/packages/tools/integration/ardity-arduino-unity-communication-made-easy-123819) - you can install this directly from the asset store.  
+
+Unreal Engine + Arduino:   
+• Arduino Kit (cross-platform) : https://forums.unrealengine.com/community/community-content-tools-and-tutorials/91168-free-arduinokit-cross-platform-arduino-plugin-for-ue4/page4  
+• UEDuino (Windows only) : https://github.com/RVillani/UE4Duino
       
 ### Week 6/7: A Plurality of Realities: VR / AR / MR
 
