@@ -97,8 +97,9 @@ For this assignment we will experiment with using our phones as controllers for 
 Choose one sensor / output module declare it “yours” in the class Discord. This should not be a module discussed in class. Be prepared to give a short tutorial on using the sensor / output in class on Thursday, and have sample Arduino code / circuit photos to share with the class. You don’t need to integrate the sensor into a larger project (just getting it to interface with the Arduino is fine) but feel free to have fun with this if you want to get creative!
 
 #### Readings (due 3/1)
-• Iskander: [Design thinking is fundamentally conservative and preserves the status quo](https://hbr.org/2018/09/design-thinking-is-fundamentally-conservative-and-preserves-the-status-quo)
-• Norman (do a quick refresh before reading Iskander): [Design Thinking](https://cs3041-18b.github.io/docs/reading/DesignThinking_DonNorman.pdf)
+- Norman (do a quick refresh/scan before reading Iskander): [Design Thinking](https://cs3041-18b.github.io/docs/reading/DesignThinking_DonNorman.pdf)
+- Iskander: [Design thinking is fundamentally conservative and preserves the status quo](https://hbr.org/2018/09/design-thinking-is-fundamentally-conservative-and-preserves-the-status-quo)
+- Barragán & Reas (ported by Abhik Pai): [Extension 5](https://p5.readthedocs.io/en/latest/tutorials/electronics.html)
 
 #### Design Sprint (due 3/4)
 For this assignment we will experiment with connecting sensors to Arduino, and using them to trigger events in a game engine / creative coding platform of your choice (class demos will be mostly in Unity). Ideally, you will create an interactive experience that *would not be possible to create* using your laptop alone.
