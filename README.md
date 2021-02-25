@@ -119,6 +119,8 @@ Unreal Engine + Arduino:
 • UEDuino (Windows only) : https://github.com/RVillani/UE4Duino
       
 ### Week 6/7: A Plurality of Realities: VR / AR / MR
+- (March 4th) Guest Lecture: [Dr. Ian Hattwick](http://ianhattwick.com), Music Technologies @ MIT, on haptics and tangible interaction
+- (March 8th) Guest Lecture: Dr. Jennifer deWinter, IMGD @ WPI, on play and immersive interaction without HMDs. 
 
 ### Week 8: Game interfaces and alternative controllers
 
