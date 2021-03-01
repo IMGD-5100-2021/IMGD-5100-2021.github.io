@@ -126,6 +126,8 @@ Unreal Engine + Arduino:
 - (March 8th) Guest Lecture: Dr. Jennifer deWinter, IMGD @ WPI, on play and immersive interaction without HMDs. 
 
 ### Week 8: Game interfaces and alternative controllers
+- (March 11th) Guest Lecture: [Dr. Gillian Smith](http://sokath.com/home/), IMGD @ WPI, on computation and craft.
+- (March 15th) Guest Lecture: Dr. Danny Bazo, Meow Wolf Q&A
 
 ### Week 9/10/11: Tangible Computing, Ubiquitous Computing
 
