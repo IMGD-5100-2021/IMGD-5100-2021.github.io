@@ -122,12 +122,22 @@ Unreal Engine + Arduino:
 • UEDuino (Windows only) : https://github.com/RVillani/UE4Duino
       
 ### Week 6/7: A Plurality of Realities: VR / AR / MR
+
+#### Readings (due 3/11)
+Please submit a summary to me through Discord per the instructions at the top of the Course Summary.
+
+- Smith: [Generative Design for Textiles: Opportunities and Challenges for Entertainment AI]( https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/download/15820/15174)
+- Carlons et al.: [Designing eBee: A Reflection on Quilt-Based Game Design](http://sokath.com/home/wp-content/uploads/2018/01/carlsson-fdg17.pdf)
+- Eric Gunther1and Sile O’Modhrain: [Cutaneous Grooves: Composing for the Sense of Touch](https://www.researchgate.net/publication/221164911_Cutaneous_Grooves_Composing_for_the_Sense_of_Touch)
+
+#### Guest Lectures
 - (March 4th) Guest Lecture: [Dr. Ian Hattwick](http://ianhattwick.com), Music Technologies @ MIT, on haptics and tangible interaction
 - (March 8th) Guest Lecture: Dr. Jennifer deWinter, IMGD @ WPI, on play and immersive interaction without HMDs. 
-
-### Week 8: Game interfaces and alternative controllers
 - (March 11th) Guest Lecture: [Dr. Gillian Smith](http://sokath.com/home/), IMGD @ WPI, on computation and craft.
 - (March 15th) Guest Lecture: Dr. Danny Bazo, Meow Wolf Q&A
+
+### Week 8: Game interfaces and alternative controllers
+
 
 ### Week 9/10/11: Tangible Computing, Ubiquitous Computing
 
