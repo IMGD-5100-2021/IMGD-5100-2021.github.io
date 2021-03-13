@@ -130,6 +130,9 @@ Please submit a summary to me through Discord per the instructions at the top of
 - Carlons et al.: [Designing eBee: A Reflection on Quilt-Based Game Design](http://sokath.com/home/wp-content/uploads/2018/01/carlsson-fdg17.pdf)
 - Eric Gunther1and Sile O’Modhrain: [Cutaneous Grooves: Composing for the Sense of Touch](https://www.researchgate.net/publication/221164911_Cutaneous_Grooves_Composing_for_the_Sense_of_Touch)
 
+#### Readings (due 3/15)
+- Linett: [Review-House of Eternal Return, Meow Wolf Art Center, Santa Fe](https://sloverlinett.com/wp-content/uploads/2019/03/Meow-Wolf-review-PLinett-in-Curator-Journal.pdf)
+
 #### Guest Lectures
 - (March 4th) Guest Lecture: [Dr. Ian Hattwick](http://ianhattwick.com), Music Technologies @ MIT, on haptics and tangible interaction
 - (March 8th) Guest Lecture: Dr. Jennifer deWinter, IMGD @ WPI, on play and immersive interaction without HMDs. 
