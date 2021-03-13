@@ -134,7 +134,7 @@ Please submit a summary to me through Discord per the instructions at the top of
 - (March 4th) Guest Lecture: [Dr. Ian Hattwick](http://ianhattwick.com), Music Technologies @ MIT, on haptics and tangible interaction
 - (March 8th) Guest Lecture: Dr. Jennifer deWinter, IMGD @ WPI, on play and immersive interaction without HMDs. 
 - (March 11th) Guest Lecture: [Dr. Gillian Smith](http://sokath.com/home/), IMGD @ WPI, on computation and craft.
-- (March 15th) Guest Lecture: Dr. Danny Bazo, Meow Wolf Q&A
+- (March 15th) Guest Lecture: Dr. Danny Bazo, Meow Wolf Q&A. Please watch [his video presentation about his work at eyeo presented at eyeo in 2019](https://vimeo.com/channels/eyeo2019/354276551) and come to class with questions.
 
 ### Week 8: Game interfaces and alternative controllers
 
