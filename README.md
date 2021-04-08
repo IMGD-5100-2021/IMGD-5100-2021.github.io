@@ -144,7 +144,7 @@ Please submit a summary to me through Discord per the instructions at the top of
 #### Design Sprint (due Thursday 4/22)
 For this spring, you can choose to make *either* an AR or a VR project (don't do both unless your super motivated). AR will require the use of your phone (or potentially a hololens if you have access to one), VR will require the use of a platform like Google Cardboard, or access to more specialized hardware if you have it.
 
-Projects can be realized in any platform you choose, but I encourage using AFrame or Unity. We will use class time to critique this sprint, so be prepared to work with other students / the instructor to make your project accessible to people. Note that specialized hardware won't be avaiable for these critiques, so be sure to think about documentation if you're using a device like the Vive / Hololens etc.
+Projects can be realized in any platform you choose, but I encourage using [AFrame](https://github.com/IMGD-5100-2021/IMGD-5100-2021.github.io/blob/main/arvr_desgn_sprint.md) or Unity. We will use class time to critique this sprint, so be prepared to work with other students / the instructor to make your project accessible to people. Note that specialized hardware won't be avaiable for these critiques, so be sure to think about documentation if you're using a device like the Vive / Hololens etc.
 
 *VR*: In this design sprint, we will be **exploring virtual reality to consider what it will be like when computation can transport us to another place.** Transport someone to a real location, inside a game, among abstract art... whatever you think would be interesting, immersive, and compelling. You may work in teams for this assignment.
 
