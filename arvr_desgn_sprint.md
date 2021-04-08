@@ -1,20 +1,42 @@
-# AR / VR Design Sprint
+### Some Technical Hints: Using AFrame
 
-For this assignment, you can choose to make *either* an AR or a VR project (don't do both unless your super motivated). AR will require the use of your phone (or potentially a hololens if you have access to one), VR will require the use of a platform like Google Cardboard, or access to more specialized hardware if you have it.
+[A-Frame](https://aframe.io/) is a simple, web-based design platform that uses HTML to create VR scenes. In addition, a companion website - [Glitch](https://glitch.com/) - provides a fantastic web-based development environment that will allow you to see your code + output simultaneously. Although the building blocks of aframe are basic, don't underestimate its powerful potential. Before you start, [check out all of the interesting work people in the AFrame community are up to](https://aframe.io/blog/).
 
-Projects can be realized in any platform you choose, but I encourage using AFrame or Unity. We will use class time to critique this sprint, so be prepared to work with other students / the instructor to make your project accessible to people. Note that specialized hardware won't be avaiable for these critiques, so be sure to think about documentation if you're using a device like the Vive / Hololens etc.
+There are a number of resources to get you up to speed - [aframe school](https://aframe.io/aframe-school), [aframe slack](https://aframevr-slack.herokuapp.com/), and various other tutorials blog posts if you simply Google _aframe_
 
-## VR
-In this design sprint, we will be **exploring virtual reality to consider what it will be like when computation can transport us to another place.** Transport someone to a real location, inside a game, among abstract art... whatever you think would be interesting, immersive, and compelling. You may work in teams for this assignment.
+#### Getting Familiar with AFrame
+_Some tips from Gabbi LaBorwit ('20)_
 
-A couple of quick pointers before you start:
-- **Be sure to articulate your design goal / objective ASAP.** Without an objective for your design, much of your process will be unguided. If your goal is to provide a sense of awe or provoke reflection or make someone feel like they are truly in another physical place... any of that is fine. The key is that you articulate your goal and make design decisions that align with that objective.
-- **Consider what will make your design feel immersive.** This is your primary challenge, and it's worth thinking beyond visual channels. How could audio enhance your design? Should you add other forms of interaction besides keyboard / cardboard button / mouse?
-- **Careful with interaction.** Because of time and hardware limitations, consider what input mechanisms you may even have available to you before getting too deep into the development.
+  1. Take a few minutes to play with the examples provided on A-Frame's [home page](https://aframe.io/examples/showcase/helloworld/).
+  2. Once you've looked around, go to the first example called "Hello WebVR" and click "Visual Inspector" in the top right-hand corner. Two boxes should pop up containing the source code and each HTML element's properties.
+  3. In the leftmost box outlining the source code, click the third line that reads `<a-box...>`. Now the rightmost box shows the blue cube's design properties. Edit the `position` field and hit enter to see how it affects the scene. Play with the other elements/properties as well to get a feel for the code.
 
-## AR
-In this design sprint, you will make arbitrary user-occupied spaces *creepy*. This can be interpreted however you see fit. What types of virtual objects can you place in a space that create unease? Discomfort? Can you use sound in some way to emphasize this effect? What types of interaction might be *disturbing*? How can users explore the worlds you augment?
 
-### Deliverables
-- A short demo video, hosted online. Documentation of your assignment, including a brief description of what you made, how it was received during critique, and what you would change if you continued to work on it. Include the link to your video in your documentation, which should be a .pdf.
-- Your AR/VR experience should be publicly accessible so that others can visit it or download it. **Include this link in your design doc.** If you're using AFrame, it's fine if this is a link from [glitch](https://glitch.com/) (which is probably the easiest place to develop your work).
+#### Remixing AFrame on Glitch
+- Read the first half of the ["Getting Started"](https://aframe.io/docs/0.5.0/introduction/#getting-started) instructions and click the link provided to remix the starter example. When a box appears with 3 options, select "Remix your own" and sign in to your Github account from the button in the top-right corner.
+
+- Back on the Glitch web-editor go to `index.html` and click "Show Live" in the top left corner to view what you have so far. Now go back and "remix" the code to make it your own.
+  - Note: There's no need to constantly refresh the Live page, it automatically updates itself and saves the code.
+
+- In the top-left corner click the drop-down menu with your glitch username and select "Remix This". Replace the code in `index.html` with the following basic template:
+
+```
+<html>
+  <head>
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+    <!-- Your code here -->
+    </a-scene>
+  </body>
+</html>
+```
+
+#### Some tips
+
+- You can use this [tutorial](https://aframe.io/docs/0.5.0/guides/building-a-basic-scene.html) to build a basic scene and go from there, too.
+- Scroll down the left-sidebar on the [documentation](https://aframe.io/docs/0.5.0/introduction/) page to find a bunch of tutorials for animations, sound, and more.
+- Some cool [animations](https://aframe.io/docs/0.5.0/core/animations.html#direction_alternate) to play with.
+- To take your own 360º picture download the free app on an iPhone called "360 Panorama" by Occipital, Inc and send  yourself the photo to get it on your computer. An [example](https://ambiguous-hare.glitch.me/) I made.
+- *Interacting with objects*: If you want to be able to click on objects or do things when you look at an object, look at this [tutorial](https://www.youtube.com/watch?v=yM89f0GLzB0) on youtube as well as the [code](https://github.com/SonarSystems/A-Frame-WebVR-Tutorials/blob/master/%5B6%5D%20Interacting%20With%20Objects/index.html) that comes with it.
