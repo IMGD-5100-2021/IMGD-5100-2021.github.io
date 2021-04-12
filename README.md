@@ -26,6 +26,29 @@ Given the current pandemic, as far as I'm concerned grades are really there to l
 ## Attendance
 Don't miss class! Unless of course you're sick, or have a family member that's sick, or some other extenuating circumstance... and most pandemic related issues certainly qualify as extenuating circumstances. Class will provide critique sessions, a variety of guest lectures, and other opportunities that can't easily be replicated viewing a video recording. That said, I will do my best to record all class sessions and post the recordings.
 
+## Final Project
+The final project is open-ended; you are encouraged to follow your personal interests to create a project that explores tangible and/or embodied interaction. This could include:
+
+- A game that you make with an accompanying alternative control device
+- An embodied interface for making visual art, crafts, or music
+- An immersive experience that explores haptics
+- A VR / AR experience
+- A more focused HCI experiment where you design / test an interface for research purposes
+
+You are required to do some type of user evaluation of your work. Time in class will be provided for this, but obviously not all interfaces work well with remote testing. Give this some thought and be preapred to justify your chosen evaluation.
+
+Here is a timeline of deliverables for the project:
+
+1. April 19th - A short paper (less than a page) describing what your project will be, what challenges / difficulties you expect to encounter when building it, and how you will evaluate it. Note there is no class this day (Patriots Day)
+
+2. April 26th - Prototype I. You will casually show/discuss your prototype with 1–2 other members of the class + the instructor on this day. Be prepared to either show pre-recorded video or do live demonstrations of your work.
+
+3. May 3rd - Check-in. Send a brief (< one page) summary of your progress to date to the instructor. You should now be at a point where you're ready to begin evaluating your work more seriously, and there will be class time allocated for this.
+
+4. May 10th - Final project presentations.
+
+5. May 13th - Final projects are due (no class today, as WPI will be on a Friday schedule). Please create a small website that contains documentation of your project, including a brief description of the concept, a video of it in action, and a description of your evaluation and its results.
+
 ## Course Outline (subject to change)
 For all readings, please prepare a paragraph or two (>200 words) describing points of interest you found in the article, questions you might have, and topics for discussion in class. Please submit this by 10AM the morning they are due, this will hopefully give me time to scan them before class.
 
